@@ -1,10 +1,13 @@
-##Open AI and Claude API Demo
+## Open AI and Claude API Demo
 
-##Pre-requisites
+## Pre-requisites
+
 pip install -r requirements.txt
 
-##Add .env with environment variables
+## Add .env with environment variables
+
 OPENAI_API_KEY and ANTHROPIC_API_KEY
 
-##Run the project
+## Run the project
+
 python3 app.py
