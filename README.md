@@ -1,5 +1,13 @@
 ## Open AI and Claude API Demo
 
+## Create python virtual environment
+
+python -m venv venv
+
+## Activate virtual environment
+
+source venv/bin/activate
+
 ## Pre-requisites
 
 pip install -r requirements.txt
